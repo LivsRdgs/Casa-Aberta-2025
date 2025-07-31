@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Se você pudesse mudar o final de um livro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('arte.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      text-align: center;
+      padding: 20px;
+      color: #1a1a1a;
+    }
+
+    h1 {
+      margin-bottom: 30px;
+      background-color: rgba(255, 255, 255, 0.95);
+      color: #1a1a1a;
+      display: inline-block;
+      padding: 15px 25px;
+      border-radius: 12px;
+      font-size: 32px;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    .item {
+      width: 250px;
+      background-color: rgba(255, 255, 255, 0.95);
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+      text-align: left;
+    }
+
+    .item img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    .item a {
+      text-decoration: none;
+      color: #000;
+      font-weight: bold;
+      display: block;
+      margin-top: 10px;
+      font-size: 18px;
+    }
+
+    .item p {
+      margin-top: 10px;
+      font-size: 16px;
+      color: #333;
+      line-height: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>E se você pudesse mudar o final de um livro</h1>
+  <div class="container">
+    <div class="item">
+      <a href="https://forms.gle/NXs77GcHgUZkLy6t7" target="_blank">
+        <img src="A Hora da Estrela.jpg" alt="A Hora da Estrela">
+        A Hora da Estrela
+      </a>
+      <p>A nordestina Macabéa, a protagonista de A hora da estrela, é uma mulher miserável, que mal tem consciência de existir. Depois de perder seu único elo com o mundo, uma velha tia, ela viaja para o Rio, onde aluga um quarto, se emprega como datilógrafa e gasta suas horas ouvindo a Rádio Relógio. Apaixona-se, então, por Olímpico de Jesus, um metalúrgico nordestino, que logo a trai com uma colega de trabalho. Desesperada, Macabéa consulta uma cartomante, que lhe prevê um futuro luminoso, bem diferente do que a espera.</p>
+    </div>
+
+    <div class="item">
+      <a href="https://forms.gle/oAxNECZPHjX9S9j5A" target="_blank">
+        <img src="triste fim de policarpo quaresma.jpg" alt="Triste Fim de Policarpo Quaresma">
+        Triste Fim de Policarpo Quaresma
+      </a>
+      <p>Com uma literatura engajada e realista, Lima Barreto compôs um romance cuja história oscila do humor ao drama. Ambientado no final do século XIX, o livro conta a história do major Policarpo Quaresma, nacionalista extremado, cuja visão sublime do Brasil é motivo de desdém e ironia. Interessado em livros de viagem, defensor da língua tupi e seguidor de manuais de agricultura, Policarpo é, sobretudo, um "patriota", e quer defender sua nação a todo custo. O patriotismo aferrado leva o protagonista a se envolver em projetos, que constituem as três partes do livro.</p>
+    </div>
+
+    <div class="item">
+      <a href="https://forms.gle/g8hzwmbFGYVFXrf3A" target="_blank">
+        <img src="solitária.jpg" alt="Solitária">
+        Solitária
+      </a>
+      <p>Solitária conta a história de duas mulheres negras, Mabel e Eunice, mãe e filha, que moram no trabalho, um condomínio de luxo desses encontrados em qualquer grande cidade brasileira. Eunice, a mãe, é testemunha-chave de um crime chocante ocorrido na casa dos patrões. Mabel, a filha, constrói o caminho que leva não apenas à elucidação deste crime, mas a uma mudança radical na vida das pessoas que cercam as protagonistas.</p>
+    </div>
+
+    <div class="item">
+      <a href="https://forms.gle/cPNbb6Cy6raHfr4h9" target="_blank">
+        <img src="O avesso da pele.jpg" alt="O Avesso da Pele">
+        O Avesso da Pele
+      </a>
+      <p>O avesso da pele é a história de Pedro, que, após a morte do pai, sai em busca de resgatar o passado da família e refazer os caminhos paternos. Com uma narrativa sensível e por vezes brutal, Jeferson Tenório traz à superfície um país marcado pelo racismo e por um sistema educacional falido, e um denso relato sobre as relações entre pais e filhos. O que está em jogo é a vida de um homem abalado pelas inevitáveis fraturas existenciais da sua condição de negro em um país racista, um processo de dor, de acerto de contas, mas também de redenção, superação e liberdade.</p>
+    </div>
+
+    <div class="item">
+      <a href="https://forms.gle/QNUggg2cRMgbAd7UA" target="_blank">
+        <img src="O quarto de Giovanni.jpg" alt="O Quarto de Giovanni">
+        O Quarto de Giovanni
+      </a>
+      <p>Lançado em 1956, o segundo romance de James Baldwin é uma obra-prima da literatura americana. Com pinceladas autobiográficas, o livro trata de uma relação bissexual ao acompanhar David, um jovem americano em Paris à espera de sua namorada, Hella, que por sua vez está na Espanha. Enquanto ela pondera se deve ou não se casar com David, ele conhece Giovanni, um garçom italiano por quem se apaixona.</p>
+    </div>
+  </div>
+</body>
+</html>
